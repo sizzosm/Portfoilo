@@ -7,7 +7,7 @@ body{
 }
 /* main background */
 #main_container{
-    background: url(../assets/background/bganimation.gif);
+    background: url(../assets/background/bg_background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
